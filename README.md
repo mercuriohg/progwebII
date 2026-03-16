@@ -18,8 +18,7 @@ Documentar meu progresso e facilitar o acesso ao material das aulas de desenvolv
 ## 🔧 Tecnologias
 
 - PHP
-- HTML/CSS
-- Banco de dados
+
 
 ---
 
