@@ -135,6 +135,6 @@
     
    }
    echo "<br>Foram necessários ". $ano . " anos para Juca ultrapassar Chico na altura";
-   //Exercício 7
+
    
 ?>
