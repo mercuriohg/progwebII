@@ -20,7 +20,7 @@
     //Exercício 4
     $array_palavras = ["Frozen", "Abecê", "Frozen", "Grêmio","Internacional", "Grêmio"];
     foreach( $array_palavras as $quant_palavras){
-        $contagem = array_count_values($array_palavras);    
+        $contagem = array_count_values($array_palavras); // array_count_values(). Tem que pegar o array inteiro para fazer a contagem 
     }
     print_r($contagem);
 
