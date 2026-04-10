@@ -93,10 +93,10 @@
     $nota3 = 7.5;
     $media = 0;
     
-    if ($nota1 > 10 or $nota2 > 10 or $nota3 > 10){
+    if ($nota1 > 10 || $nota2 > 10 || $nota3 > 10){
         echo "<br>Nota inválida";
     }
-    else if ($nota1 < 0 or $nota2 < 0 or $nota3 < 0){
+    else if ($nota1 < 0 || $nota2 < 0 || $nota3 < 0){
         echo "<br>Nota inválida";
     }
     else{
